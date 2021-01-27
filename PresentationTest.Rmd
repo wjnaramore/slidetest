@@ -1,0 +1,13 @@
+---
+title: "Untitled"
+author: "Jason Naramore"
+date: "1/26/2021"
+output: ioslides_presentation
+---
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
